@@ -6,7 +6,7 @@ permalink: /sr/
 
 SR
 
-### More Information
+### Crear un menú con todas las prácticas
 
 A place to include any other types of information that you'd like to include about yourself.
 
