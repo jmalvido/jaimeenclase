@@ -2,14 +2,23 @@
 layout: page
 title: SR
 permalink: /sr/
+
 ---
 
-SR
+# SR - Servicios en Red - Sistemas Microinformáticos y Redes Locales
 
-### Crear un menú con todas las prácticas
+## Índice
 
-A place to include any other types of information that you'd like to include about yourself.
+####[ 0 - VAGRANT](vagrant.md)
 
-### Contact me
+#### 1- DHCP
 
-[email@domain.com](mailto:email@domain.com)
+#### 2- DNS
+
+#### 3- FTP
+
+#### 4- CONEXIONES REMOTAS
+
+#### 5- HTTP
+
+#### 6- SMTP
