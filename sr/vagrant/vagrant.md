@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SR - VAGRANT
-permalink: /sr/
+permalink: /sr/vagrant
 ---
 
 # VAGRANT
