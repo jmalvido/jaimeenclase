@@ -9,7 +9,7 @@ permalink: /sr/
 
 ## Índice
 
-####[ 0 - VAGRANT](vagrant.md)
+####[ 0 - VAGRANT](vagrant/vagrant.md)
 
 #### 1- DHCP
 
